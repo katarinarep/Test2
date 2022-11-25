@@ -1,0 +1,15 @@
+/Users/katarina/Projects/Test2/Test2/bin/Debug/net7.0/Test2
+/Users/katarina/Projects/Test2/Test2/bin/Debug/net7.0/Test2.deps.json
+/Users/katarina/Projects/Test2/Test2/bin/Debug/net7.0/Test2.runtimeconfig.json
+/Users/katarina/Projects/Test2/Test2/bin/Debug/net7.0/Test2.dll
+/Users/katarina/Projects/Test2/Test2/bin/Debug/net7.0/Test2.pdb
+/Users/katarina/Projects/Test2/Test2/obj/Debug/net7.0/Test2.csproj.AssemblyReference.cache
+/Users/katarina/Projects/Test2/Test2/obj/Debug/net7.0/Test2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katarina/Projects/Test2/Test2/obj/Debug/net7.0/Test2.AssemblyInfoInputs.cache
+/Users/katarina/Projects/Test2/Test2/obj/Debug/net7.0/Test2.AssemblyInfo.cs
+/Users/katarina/Projects/Test2/Test2/obj/Debug/net7.0/Test2.csproj.CoreCompileInputs.cache
+/Users/katarina/Projects/Test2/Test2/obj/Debug/net7.0/Test2.dll
+/Users/katarina/Projects/Test2/Test2/obj/Debug/net7.0/refint/Test2.dll
+/Users/katarina/Projects/Test2/Test2/obj/Debug/net7.0/Test2.pdb
+/Users/katarina/Projects/Test2/Test2/obj/Debug/net7.0/Test2.genruntimeconfig.cache
+/Users/katarina/Projects/Test2/Test2/obj/Debug/net7.0/ref/Test2.dll
